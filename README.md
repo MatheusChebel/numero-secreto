@@ -7,3 +7,6 @@
 
 <p> O intuito do projeto foi criar um pequeno site onde exista um jogo para advinhação de um número secreto</p>
 <p> Esse número por sua vez se altera a cada vez que o jogador acerta, além de ter a leitura em voz realizada por uma IA dos textos presentes no jogo</p>
+
+<h2>Print da Prévia do jogo completo</h2>
+<img src="./img/previaJogoFim.png" alt="print da tela do jogo feito" class="print" />
