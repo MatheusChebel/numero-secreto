@@ -5,9 +5,9 @@
 <h2>TECNOLOGIAS USADAS</h2>
 <table>
     <tr>
-    <td><img style="height 20px; widght 20px" src="./img/IconHTML.png" alt="icone html" class="icone" /></td>
-    <td><img style="height 20px; widght 20px" src="./img/IconCSS.png" alt="icone css" class="icone" /></td>
-    <td><img style="height 20px; widght 20px"src="./img/iconJs.png" alt="icone javascript" class="icone" /></td>
+    <td><img style="height 10px; widght 10px" src="./img/IconHTML.png" alt="icone html" class="icone" /></td>
+    <td><img style="height 10px; widght 10px" src="./img/IconCSS.png" alt="icone css" class="icone" /></td>
+    <td><img style="height 10px; widght 10px"src="./img/iconJs.png" alt="icone javascript" class="icone" /></td>
     </tr>
 </table>
 
