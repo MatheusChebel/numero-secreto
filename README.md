@@ -3,7 +3,9 @@
 <br/>
 
 <h2>TECNOLOGIAS USADAS</h2>
-<p>HTML - CSS - JAVASCRIPT</p>
+<img src="./img/IconHTML.png" alt="icone html" class="icone" />
+<img src="./img/IconCSS.png" alt="icone css" class="icone" />
+<img src="./img/IconJs.png" alt="icone javascript" class="icone" />
 
 <p> O intuito do projeto foi criar um pequeno site onde exista um jogo para advinhação de um número secreto</p>
 <p> Esse número por sua vez se altera a cada vez que o jogador acerta, além de ter a leitura em voz realizada por uma IA dos textos presentes no jogo</p>
