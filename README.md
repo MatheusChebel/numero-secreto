@@ -5,12 +5,11 @@
 <h2>TECNOLOGIAS USADAS</h2>
 <table>
     <tr>
-    <td><img style="height 10px; widght 10px" src="./img/IconHTML.png" alt="icone html" class="icone" /></td>
-    <td><img style="height 10px; widght 10px" src="./img/IconCSS.png" alt="icone css" class="icone" /></td>
-    <td><img style="height 10px; widght 10px"src="./img/iconJs.png" alt="icone javascript" class="icone" /></td>
+        <td><img style="height: 25%; width: 25%;" src="./img/IconHTML.png" alt="icone html" class="icone" /></td>
+        <td><img style="height: 25%; width: 25%;" src="./img/IconCSS.png" alt="icone css" class="icone" /></td>
+        <td><img style="height: 25%; width: 25%;" src="./img/iconJs.png" alt="icone javascript" class="icone" /></td>
     </tr>
 </table>
-
 <p> O intuito do projeto foi criar um pequeno site onde exista um jogo para advinhação de um número secreto</p>
 <p> Esse número por sua vez se altera a cada vez que o jogador acerta, além de ter a leitura em voz realizada por uma IA dos textos presentes no jogo</p>
 
