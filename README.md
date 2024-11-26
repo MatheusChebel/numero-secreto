@@ -21,3 +21,5 @@
 
 <h2>Print da Prévia do jogo completo</h2>
 <img src="./img/previaJogoFim.png" alt="print da tela do jogo feito" class="print" />
+
+<h2> O jogo também pode ser acessado in live no link: https://jogodonumerosecreto-eight-phi.vercel.app</h2>
